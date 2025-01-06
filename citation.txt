@@ -1,6 +1,5 @@
 @article{REPO304,
     author = "De Freitas, J. and Uğuralp, A. K. and Oğuz-Uğuralp, Z. and others",
-    doi = "10.1038/s41562-023-01696-5",
     journal = "Nature Human Behaviour",
     pages = "2126–2139",
     title = "{Self-orienting in human and machine learning}",
